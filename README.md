@@ -6,9 +6,9 @@ Clone this repo, open Claude Code, and ask it anything about your ads. It knows 
 
 ## Built by
 
-**Ivan Falco** - B2B growth operator, ABM and ads expert, founder of [ColdIQ](https://coldiq.com). Building AI-native advertising systems that make one person operate like five.
+**Ivan Falco** - Head of Growth at [ColdIQ](https://coldiq.com) and Head of the Ads/ABM agency. Building AI-native advertising systems that make one person operate like five.
 
-[LinkedIn](https://www.linkedin.com/in/ivanfalco/)
+If you need help with ads operations, growth operations, or scaling your B2B campaigns - DM Ivan directly: [LinkedIn](https://www.linkedin.com/in/ivanfalco/)
 
 ---
 
