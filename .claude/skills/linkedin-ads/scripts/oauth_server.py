@@ -71,7 +71,7 @@ class OAuthHandler(http.server.BaseHTTPRequestHandler):
             return None
 
     def save_token(self, token):
-        env_path = os.path.join(os.path.dirname(__file__), ".env")
+        env_path = os.path.join(os.path.dirname(__file__), "..", "..", "..", "..", ".env")
         with open(env_path, "r") as f:
             lines = f.readlines()
         with open(env_path, "w") as f:

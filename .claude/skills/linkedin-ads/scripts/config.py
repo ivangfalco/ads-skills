@@ -7,8 +7,8 @@ import os
 from pathlib import Path
 from dotenv import load_dotenv
 
-# Load .env from the same directory as this file
-_env_path = Path(__file__).parent / ".env"
+# Load .env from the project root (4 levels up from scripts/)
+_env_path = Path(__file__).resolve().parent.parent.parent.parent.parent / ".env"
 load_dotenv(_env_path)
 
 

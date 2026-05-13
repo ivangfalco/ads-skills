@@ -1,0 +1,24 @@
+# macOS
+.DS_Store
+
+# Secrets and credentials
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+.venv/
+venv/
+
+# OAuth tokens
+oauth_token*.json
+token.json
+credentials.json
