@@ -27,6 +27,7 @@ Meta's native targeting can't match LinkedIn's B2B precision (no job title, comp
 
 | Intent | File | Priority |
 |--------|------|----------|
+| **Scaling qualified B2B pipeline end to end** (the goal is SQLs / qualified pipeline, not lead volume) | [scale-b2b-qualified-pipeline.md](knowledge-base/scale-b2b-qualified-pipeline.md) | LOAD FIRST when the goal is qualified pipeline. The 6-step spine (map market -> audiences -> funnel events/CAPI -> creative -> segments -> SQL reporting). |
 | **ANY operational decision** (pause, scale, graduate, budget, creative count) | [meta-ads-operating-system.md](knowledge-base/meta-ads-operating-system.md) | ALWAYS LOAD FIRST. This is THE decision framework. All formulas, thresholds, and actions live here. |
 | **Auditing an account** (pull data, classify ads, produce recommendations) | Load the OS file above + run `scripts/get_active_ads_copy.py` | Pull active ads, classify by OS rules, produce recommendations. |
 | **Creative production decisions** (what to build, when to iterate, cadence, formats) | [creative-cadence-operating-system.md](knowledge-base/creative-cadence-operating-system.md) | Iteration hierarchy, concept sourcing, format playbook, testing cadence, fatigue detection, quality scoring. |

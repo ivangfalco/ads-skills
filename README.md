@@ -8,9 +8,9 @@ Clone this repo, open Claude Code, and ask it anything about your ads. It knows 
 
 ## Built by
 
-**Ivan Falco** - I do ads engineering: I help B2B companies scale their paid motion using smart AI systems - ABM and ABM 1:1, syncing ad audiences with outbound, AI-native creative, and scaling accounts like an engineer. Head of Growth at [ColdIQ](https://coldiq.com).
+**Ivan Falco** - I do ads engineering: I help B2B companies scale their paid motion using smart AI systems - ABM and ABM 1:1, syncing ad audiences with outbound, AI-native creative, and scaling accounts like an engineer, at [Frontal](https://frontal.so) (formerly ColdIQ Agency).
 
-**Want a human to look at your setup?** I run a free AI-native ads teardown - I'll review your accounts and how you run them, and map where smart AI systems would scale your paid motion. [Book a call](https://calendly.com/ivan-coldiq/call-with-ivan-falco-1) or find me on [LinkedIn](https://www.linkedin.com/in/ivanfalco/).
+**Want a human to look at your setup?** Connect with me on LinkedIn and send a connection request with a note: https://www.linkedin.com/in/ivanfalco/
 
 ---
 
@@ -193,7 +193,7 @@ ads-skills/
 - **Agencies** managing multiple client accounts
 - **Founders** running their own paid acquisition
 
-If you want to see what a full AI-native advertising operation looks like, check out what we're building at ColdIQ.
+If you want to see what a full AI-native advertising operation looks like, check out what we're building at Frontal (formerly ColdIQ Agency).
 
 ## License
 
@@ -201,4 +201,4 @@ Source-available: MIT + [Commons Clause](https://commonsclause.com/) - see [LICE
 
 ---
 
-*Built by [Ivan Falco](https://www.linkedin.com/in/ivanfalco/) at [ColdIQ](https://coldiq.com). Provided as-is. You are responsible for your own API usage, ad spend, and platform compliance.*
+*Built by [Ivan Falco](https://www.linkedin.com/in/ivanfalco/) at [Frontal](https://frontal.so) (formerly ColdIQ Agency). Provided as-is. You are responsible for your own API usage, ad spend, and platform compliance.*
